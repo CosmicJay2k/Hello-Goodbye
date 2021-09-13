@@ -1,3 +1,9 @@
 function changeText(){
-    document.getElementById("helloBye").innerHTML = "Goodbye";
+    if (document.getElementById("helloBye").innerHTML == "Hello World"){
+        document.getElementById("helloBye").innerHTML = "Goodbye";
+    }
+    else{
+        document.getElementById("helloBye").innerHTML = "Hello World";
+    }
+    
 }
