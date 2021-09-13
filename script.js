@@ -8,7 +8,6 @@ changeBtn.addEventListener("click",
         }
         else {
             document.querySelector("#helloBye").innerHTML = "Hello World";
-
         } /* Förlåt, fick feeling :) */
     }
 );
