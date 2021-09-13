@@ -6,3 +6,4 @@ function changeText() {
         document.querySelector("#helloBye").innerHTML = "Hello World";
     }
 }
+/* JSPI21 - Uppgift 3 - Introduktion Till Webbutveckling - John - Tannenberg */
