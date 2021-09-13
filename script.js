@@ -9,7 +9,7 @@ changeBtn.addEventListener("click",
         else {
             document.querySelector("#helloBye").innerHTML = "Hello World";
 
-        }
+        } /* Förlåt, fick feeling :) */
     }
 );
 /* JSPI21 - Uppgift 3 - Introduktion Till Webbutveckling - John - Tannenberg */
