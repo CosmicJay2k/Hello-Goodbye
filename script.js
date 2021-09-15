@@ -4,7 +4,7 @@ changeBtn.addEventListener("click",
     function () {
         let btnText = document.querySelector("#helloBye").innerHTML
         if (btnText == "Hello World") {
-            document.querySelector("#helloBye").innerHTML = "Goodbye";
+            document.querySelector("#helloBye").innerHTML = "Goodbye World";
         }
         else {
             document.querySelector("#helloBye").innerHTML = "Hello World";
